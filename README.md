@@ -1,8 +1,6 @@
-# Google Colaboratory save weights and epochs(resuming a training process)
+# Google Colaboratory save weights and epochs
+#(resuming a training process)
 When training a model, it could be necessary save checkpoints of that model’s state so we could recover an interrupted training process and restart it from where it left off. 
-
-
-Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud https://colab.research.google.com/notebooks/welcome.ipynb.
 
 
 In case of problems here are some suggestions:
