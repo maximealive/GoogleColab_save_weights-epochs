@@ -9,3 +9,6 @@ In case of problems here are some suggestions:
 - run '!kill -9 -1'
 - delete files from drive and reload the page to be sure that the folder is empty (repeat it several times)
 - reload Google Colaboratory page
+
+![Image of Yaktocat]
+https://octodex.github.com/images/yaktocat.png
