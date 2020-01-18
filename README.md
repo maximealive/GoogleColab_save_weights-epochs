@@ -3,6 +3,8 @@
 When training a model, it could be necessary save checkpoints of that model’s state so we could recover an interrupted training process and restart it from where it left off. 
 
 **IMPORTANT**
+
+
 Change default hardware enabling GPU:
 _Runtime -> Change runtime type -> Hardware accelerator -> GPU_
 
