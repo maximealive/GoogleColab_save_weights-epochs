@@ -29,3 +29,5 @@ __*Google Drive tree*__
 
 
 ![drive_tree](https://user-images.githubusercontent.com/12975980/72668255-4d1a6d80-3a25-11ea-805e-d8d1660750e5.png)
+
+I used some of this images: http://download.tensorflow.org/example_images/flower_photos.tgz
