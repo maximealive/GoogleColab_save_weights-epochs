@@ -10,7 +10,7 @@ _Runtime -> Change runtime type -> Hardware accelerator -> GPU_
 
 
 In case of problems here are some suggestions:
-- run "!kill -9 -1"
+- run '!kill -9 -1'
 - delete files from drive and reload the page to be sure that the folder is empty (repeat it several times)
 - reload Google Colaboratory page
 
