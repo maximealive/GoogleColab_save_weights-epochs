@@ -10,5 +10,4 @@ In case of problems here are some suggestions:
 - delete files from drive and reload the page to be sure that the folder is empty (repeat it several times)
 - reload Google Colaboratory page
 
-![Image of Yaktocat]
-https://octodex.github.com/images/yaktocat.png
+![github_tree](https://user-images.githubusercontent.com/12975980/72668161-1abc4080-3a24-11ea-9e94-acd8e480a21b.png)
