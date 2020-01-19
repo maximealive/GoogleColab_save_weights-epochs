@@ -18,7 +18,7 @@ In case of problems here are some suggestions:
 
 
 
-## Below there is Git Hub's and Google Drive's tree:
+## Below Git Hub's and Google Drive's tree:
 
 __*GitHub tree*__
 
