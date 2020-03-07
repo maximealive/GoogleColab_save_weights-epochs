@@ -23,8 +23,14 @@ In case of problems here are some suggestions:
 
 <img src="https://user-images.githubusercontent.com/12975980/72668340-e9dd0b00-3a25-11ea-884d-19dc17ace882.png"
 
+<p align="center">
+  
 __*Google Drive tree*__
+</p>
 
-![drive_tree](https://user-images.githubusercontent.com/12975980/72668255-4d1a6d80-3a25-11ea-805e-d8d1660750e5.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12975980/72668255-4d1a6d80-3a25-11ea-805e-d8d1660750e5.png">
+</p>
+
 
 Used some of this images: http://download.tensorflow.org/example_images/flower_photos.tgz
