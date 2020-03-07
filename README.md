@@ -26,7 +26,7 @@ In case of problems here are some suggestions:
 <p align="center">
   
   <b>Google Drive tree</b><br>
-  <img src="https://user-images.githubusercontent.com/12975980/72668255-4d1a6d80-3a25-11ea-805e-d8d1660750e5.png">
+  
 </p>
 
 
