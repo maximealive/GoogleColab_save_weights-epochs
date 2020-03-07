@@ -20,16 +20,12 @@ In case of problems here are some suggestions:
 
 ## Below Git Hub's and Google Drive's tree:
 
+__*GitHub tree*__
 
-<img src="https://user-images.githubusercontent.com/12975980/72668340-e9dd0b00-3a25-11ea-884d-19dc17ace882.png"
+![github_tree](https://user-images.githubusercontent.com/12975980/72668340-e9dd0b00-3a25-11ea-884d-19dc17ace882.png)
 
-<p align="center">
-  
-<b>Google Drive tree</b><br>
-  
-</p>
-<p style="text-align: center">
-  def 456
-</p>
+__*Google Drive tree*__
+
+![drive_tree](https://user-images.githubusercontent.com/12975980/72668255-4d1a6d80-3a25-11ea-805e-d8d1660750e5.png)
 
 Used some of this images: http://download.tensorflow.org/example_images/flower_photos.tgz
